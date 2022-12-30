@@ -5,5 +5,9 @@ I,m in ACU
 =======
 my name is Ahmed Alghonaimi
 >>>>>>> 39118862dcf1888d9ab0030cb730fdb37c92dfd8
+<<<<<<< HEAD
 print ("my hight is 123")
 print("my age is 20)
+=======
+print ("my hight is 123") 
+>>>>>>> AgeCalculator
